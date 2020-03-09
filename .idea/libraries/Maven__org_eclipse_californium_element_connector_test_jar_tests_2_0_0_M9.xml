@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.eclipse.californium:element-connector:test-jar:tests:2.0.0-M9">
+    <CLASSES>
+      <root url="jar://C:/Program Files/Java/jdk1.8.0_241/lib/org/eclipse/californium/element-connector/2.0.0-M9/element-connector-2.0.0-M9-tests.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://C:/Program Files/Java/jdk1.8.0_241/lib/org/eclipse/californium/element-connector/2.0.0-M9/element-connector-2.0.0-M9-test-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://C:/Program Files/Java/jdk1.8.0_241/lib/org/eclipse/californium/element-connector/2.0.0-M9/element-connector-2.0.0-M9-test-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

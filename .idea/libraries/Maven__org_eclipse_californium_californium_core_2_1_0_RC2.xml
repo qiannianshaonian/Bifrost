@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.eclipse.californium:californium-core:2.1.0-RC2">
+    <CLASSES>
+      <root url="jar://C:/Program Files/Java/jdk1.8.0_241/lib/org/eclipse/californium/californium-core/2.1.0-RC2/californium-core-2.1.0-RC2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://C:/Program Files/Java/jdk1.8.0_241/lib/org/eclipse/californium/californium-core/2.1.0-RC2/californium-core-2.1.0-RC2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://C:/Program Files/Java/jdk1.8.0_241/lib/org/eclipse/californium/californium-core/2.1.0-RC2/californium-core-2.1.0-RC2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

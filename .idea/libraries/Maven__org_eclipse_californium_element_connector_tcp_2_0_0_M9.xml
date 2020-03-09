@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.eclipse.californium:element-connector-tcp:2.0.0-M9">
+    <CLASSES>
+      <root url="jar://C:/Program Files/Java/jdk1.8.0_241/lib/org/eclipse/californium/element-connector-tcp/2.0.0-M9/element-connector-tcp-2.0.0-M9.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://C:/Program Files/Java/jdk1.8.0_241/lib/org/eclipse/californium/element-connector-tcp/2.0.0-M9/element-connector-tcp-2.0.0-M9-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://C:/Program Files/Java/jdk1.8.0_241/lib/org/eclipse/californium/element-connector-tcp/2.0.0-M9/element-connector-tcp-2.0.0-M9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

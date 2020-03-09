@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: ch.ethz.inf.vs:element-connector:0.2-final">
+    <CLASSES>
+      <root url="jar://C:/Program Files/Java/jdk1.8.0_241/lib/ch/ethz/inf/vs/element-connector/0.2-final/element-connector-0.2-final.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://C:/Program Files/Java/jdk1.8.0_241/lib/ch/ethz/inf/vs/element-connector/0.2-final/element-connector-0.2-final-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://C:/Program Files/Java/jdk1.8.0_241/lib/ch/ethz/inf/vs/element-connector/0.2-final/element-connector-0.2-final-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
