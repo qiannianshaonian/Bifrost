@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14ee2cdc-a828-4e52-b3ad-4ab542cd530b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/aliyun_iot/CoapClient.java" afterPath="$PROJECT_DIR$/src/test/java/aliyun_iot/CoapClient.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bifrost.iml" afterPath="$PROJECT_DIR$/bifrost.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_9.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_25.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -85,8 +87,8 @@
       <file leaf-file-name="CoapClient.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/aliyun_iot/CoapClient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="235">
-              <caret line="26" column="53" lean-forward="true" selection-start-line="26" selection-start-column="53" selection-end-line="26" selection-end-column="53" />
+            <state relative-caret-position="210">
+              <caret line="25" column="3" lean-forward="false" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -94,11 +96,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ReadMe.txt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ReadMe.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ReadMe.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="125">
+              <caret line="5" column="25" lean-forward="false" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -108,68 +110,60 @@
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1963">
-              <caret line="1237" column="33" lean-forward="false" selection-start-line="1237" selection-start-column="33" selection-end-line="1237" selection-end-column="33" />
+              <caret line="1238" column="33" lean-forward="false" selection-start-line="1238" selection-start-column="33" selection-end-line="1238" selection-end-column="33" />
               <folding>
-                <marker date="1583743348387" expanded="true" signature="71487:71504" ph="..." />
-                <marker date="1583743348387" expanded="true" signature="71487:71522" ph="..." />
-                <marker date="1583743348387" expanded="true" signature="71487:71535" ph="..." />
-                <marker date="1583743348387" expanded="true" signature="71487:71550" ph="..." />
-                <marker date="1583743348387" expanded="true" signature="71585:74076" ph="..." />
-                <marker date="1583743348387" expanded="true" signature="71598:74061" ph="..." />
-                <marker date="1583743348387" expanded="true" signature="71652:71947" ph="..." />
-                <marker date="1583743348387" expanded="true" signature="71671:71932" ph="..." />
-                <marker date="1583743348387" expanded="true" signature="71734:71912" ph="..." />
-                <marker date="1583743348387" expanded="true" signature="71774:71878" ph="..." />
-                <marker date="1583743348387" expanded="true" signature="71795:71856" ph="..." />
-                <marker date="1583743348387" expanded="true" signature="71997:72324" ph="..." />
-                <marker date="1583743348387" expanded="true" signature="72016:72309" ph="..." />
-                <marker date="1583743348387" expanded="true" signature="72111:72289" ph="..." />
-                <marker date="1583743348387" expanded="true" signature="72151:72255" ph="..." />
-                <marker date="1583743348387" expanded="true" signature="72172:72233" ph="..." />
-                <marker date="1583743348387" expanded="true" signature="72375:72640" ph="..." />
-                <marker date="1583743348387" expanded="true" signature="72394:72625" ph="..." />
-                <marker date="1583743348387" expanded="true" signature="72427:72605" ph="..." />
-                <marker date="1583743348387" expanded="true" signature="72467:72571" ph="..." />
-                <marker date="1583743348387" expanded="true" signature="72488:72549" ph="..." />
-                <marker date="1583743348387" expanded="true" signature="72683:72989" ph="..." />
-                <marker date="1583743348387" expanded="true" signature="72702:72974" ph="..." />
-                <marker date="1583743348387" expanded="true" signature="72776:72954" ph="..." />
-                <marker date="1583743348387" expanded="true" signature="72816:72920" ph="..." />
-                <marker date="1583743348387" expanded="true" signature="72837:72898" ph="..." />
-                <marker date="1583743348387" expanded="true" signature="73040:73389" ph="..." />
-                <marker date="1583743348387" expanded="true" signature="73059:73374" ph="..." />
-                <marker date="1583743348387" expanded="true" signature="73137:73354" ph="..." />
-                <marker date="1583743348387" expanded="true" signature="73177:73320" ph="..." />
-                <marker date="1583743348387" expanded="true" signature="73198:73298" ph="..." />
-                <marker date="1583743348387" expanded="true" signature="73424:73730" ph="..." />
-                <marker date="1583743348387" expanded="true" signature="73443:73715" ph="..." />
-                <marker date="1583743348387" expanded="true" signature="73517:73695" ph="..." />
-                <marker date="1583743348387" expanded="true" signature="73557:73661" ph="..." />
-                <marker date="1583743348387" expanded="true" signature="73578:73639" ph="..." />
-                <marker date="1583743348387" expanded="true" signature="73782:74047" ph="..." />
-                <marker date="1583743348387" expanded="true" signature="73801:74032" ph="..." />
-                <marker date="1583743348387" expanded="true" signature="73834:74012" ph="..." />
-                <marker date="1583743348387" expanded="true" signature="73874:73978" ph="..." />
-                <marker date="1583743348387" expanded="true" signature="73895:73956" ph="..." />
+                <marker date="1583743616958" expanded="true" signature="70955:70972" ph="..." />
+                <marker date="1583743616958" expanded="true" signature="70955:70990" ph="..." />
+                <marker date="1583743616958" expanded="true" signature="70955:71003" ph="..." />
+                <marker date="1583743616958" expanded="true" signature="70955:71018" ph="..." />
+                <marker date="1583743616958" expanded="true" signature="71053:73544" ph="..." />
+                <marker date="1583743616958" expanded="true" signature="71066:73529" ph="..." />
+                <marker date="1583743616958" expanded="true" signature="71120:71415" ph="..." />
+                <marker date="1583743616958" expanded="true" signature="71139:71400" ph="..." />
+                <marker date="1583743616958" expanded="true" signature="71202:71380" ph="..." />
+                <marker date="1583743616958" expanded="true" signature="71242:71346" ph="..." />
+                <marker date="1583743616958" expanded="true" signature="71263:71324" ph="..." />
+                <marker date="1583743616958" expanded="true" signature="71465:71792" ph="..." />
+                <marker date="1583743616958" expanded="true" signature="71484:71777" ph="..." />
+                <marker date="1583743616958" expanded="true" signature="71579:71757" ph="..." />
+                <marker date="1583743616958" expanded="true" signature="71619:71723" ph="..." />
+                <marker date="1583743616958" expanded="true" signature="71640:71701" ph="..." />
+                <marker date="1583743616958" expanded="true" signature="71843:72108" ph="..." />
+                <marker date="1583743616958" expanded="true" signature="71862:72093" ph="..." />
+                <marker date="1583743616958" expanded="true" signature="71895:72073" ph="..." />
+                <marker date="1583743616958" expanded="true" signature="71935:72039" ph="..." />
+                <marker date="1583743616958" expanded="true" signature="71956:72017" ph="..." />
+                <marker date="1583743616958" expanded="true" signature="72151:72457" ph="..." />
+                <marker date="1583743616958" expanded="true" signature="72170:72442" ph="..." />
+                <marker date="1583743616958" expanded="true" signature="72244:72422" ph="..." />
+                <marker date="1583743616958" expanded="true" signature="72284:72388" ph="..." />
+                <marker date="1583743616958" expanded="true" signature="72305:72366" ph="..." />
+                <marker date="1583743616958" expanded="true" signature="72508:72857" ph="..." />
+                <marker date="1583743616958" expanded="true" signature="72527:72842" ph="..." />
+                <marker date="1583743616958" expanded="true" signature="72605:72822" ph="..." />
+                <marker date="1583743616958" expanded="true" signature="72645:72788" ph="..." />
+                <marker date="1583743616958" expanded="true" signature="72666:72766" ph="..." />
+                <marker date="1583743616958" expanded="true" signature="72892:73198" ph="..." />
+                <marker date="1583743616958" expanded="true" signature="72911:73183" ph="..." />
+                <marker date="1583743616958" expanded="true" signature="72985:73163" ph="..." />
+                <marker date="1583743616958" expanded="true" signature="73025:73129" ph="..." />
+                <marker date="1583743616958" expanded="true" signature="73046:73107" ph="..." />
+                <marker date="1583743616958" expanded="true" signature="73250:73515" ph="..." />
+                <marker date="1583743616958" expanded="true" signature="73269:73500" ph="..." />
+                <marker date="1583743616958" expanded="true" signature="73302:73480" ph="..." />
+                <marker date="1583743616958" expanded="true" signature="73342:73446" ph="..." />
+                <marker date="1583743616958" expanded="true" signature="73363:73424" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="60" column="19" lean-forward="false" selection-start-line="60" selection-start-column="19" selection-end-line="60" selection-end-column="19" />
-              <folding>
-                <marker date="1583743190691" expanded="true" signature="2010:2854" ph="..." />
-                <marker date="1583743190691" expanded="true" signature="2064:2843" ph="..." />
-                <marker date="1583743190691" expanded="true" signature="2079:2346" ph="..." />
-                <marker date="1583743190691" expanded="true" signature="2243:2330" ph="..." />
-                <marker date="1583743190691" expanded="true" signature="2361:2604" ph="..." />
-                <marker date="1583743190691" expanded="true" signature="2526:2588" ph="..." />
-                <marker date="1583743190691" expanded="true" signature="2682:2828" ph="..." />
-              </folding>
+            <state relative-caret-position="-100">
+              <caret line="53" column="39" lean-forward="true" selection-start-line="53" selection-start-column="39" selection-end-line="53" selection-end-column="39" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -214,7 +208,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/aliyun_iot/bifrost.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/aliyun_iot/Bifrost.java" />
         <option value="$PROJECT_DIR$/src/main/java/aliyun_iot/MqttSign.java" />
         <option value="$PROJECT_DIR$/src/main/java/aliyun_iot/CoapServerIot.java" />
@@ -230,6 +223,7 @@
         <option value="$PROJECT_DIR$/src/main/java/aliyun_iot/ZhaLan.java" />
         <option value="$PROJECT_DIR$/src/main/java/aliyun_iot/Test.java" />
         <option value="$PROJECT_DIR$/src/test/java/aliyun_iot/CoapClient.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -1110,22 +1104,6 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/aliyun_iot/LogWriter.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/aliyun_iot/ZhaLan.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/aliyun_iot/Test.java" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="60" column="19" lean-forward="false" selection-start-line="60" selection-start-column="19" selection-end-line="60" selection-end-column="19" />
-          <folding>
-            <marker date="1583743190691" expanded="true" signature="2010:2854" ph="..." />
-            <marker date="1583743190691" expanded="true" signature="2064:2843" ph="..." />
-            <marker date="1583743190691" expanded="true" signature="2079:2346" ph="..." />
-            <marker date="1583743190691" expanded="true" signature="2243:2330" ph="..." />
-            <marker date="1583743190691" expanded="true" signature="2361:2604" ph="..." />
-            <marker date="1583743190691" expanded="true" signature="2526:2588" ph="..." />
-            <marker date="1583743190691" expanded="true" signature="2682:2828" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/aliyun_iot/CoapServerIot.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
@@ -1174,20 +1152,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ReadMe.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="25" lean-forward="false" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/aliyun_iot/CoapClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="26" column="53" lean-forward="true" selection-start-line="26" selection-start-column="53" selection-end-line="26" selection-end-column="53" />
+        <state relative-caret-position="210">
+          <caret line="25" column="3" lean-forward="false" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ReadMe.txt">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="-100">
+          <caret line="53" column="39" lean-forward="true" selection-start-line="53" selection-start-column="39" selection-end-line="53" selection-end-column="39" />
           <folding />
         </state>
       </provider>

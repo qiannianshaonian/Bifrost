@@ -27,6 +27,6 @@
     <orderEntry type="library" name="Maven: org.slf4j:slf4j-simple:1.7.25" level="project" />
     <orderEntry type="library" name="Maven: ch.ethz.inf.vs:californium:0.18.7-final" level="project" />
     <orderEntry type="library" name="Maven: ch.ethz.inf.vs:element-connector:0.2-final" level="project" />
-    <orderEntry type="library" name="Maven: com.alibaba:fastjson:1.2.9" level="project" />
+    <orderEntry type="library" name="Maven: com.alibaba:fastjson:1.2.25" level="project" />
   </component>
 </module>
