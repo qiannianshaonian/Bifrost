@@ -20,7 +20,7 @@ public class CoapClient {
             JSONObject jsonObject = new JSONObject();
             jsonObject.put("productkey", "a13ztDee6tQ");
             jsonObject.put("devicename", "spring1");
-            jsonObject.put("devicesecret", "EFQH31ecoM017b07tWWpJDTLFeccVq1w");
+            jsonObject.put("devicesecret", "xxxx");//加1437747313要或者自己创建阿里云账号
             String payload = JSON.toJSONString(jsonObject);
             response = client.put(payload, MediaTypeRegistry.TEXT_PLAIN);
         } catch (ConnectorException | IOException e) {
